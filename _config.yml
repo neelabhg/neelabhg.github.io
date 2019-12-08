@@ -21,7 +21,7 @@ projects:
   # sort_by options:
   #   - pushed
   #   - stars
-  limit: 9
+  limit: 50
   exclude:
     archived: false
     forks: false
@@ -37,7 +37,7 @@ projects:
 social_media:
   twitter: neelabhg
   linkedin: neelabhsgupta
-  stackoverflow: neelabh
+  stackoverflow: 2193410
   hackerrank: nsgupta
   instagram: neelabhg
   facebook: neelabhg
